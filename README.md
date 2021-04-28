@@ -6,20 +6,23 @@ Bernard Ekezie & Yuehan Pei
 Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/
 
 # Project Objective:
-Website where users can search food and recipes and upload their own recipes.
+![Logo](screenshot/dishes.png)
+
+Website where users can search food and recipes and upload their own recipes, implmented with design, accessibility and usability.
 
 Light Mode
-![](screenshot/light.png)
+![Light](screenshot/light.png)
 Dark Mode
-![](screenshot/dark.png)
+![Dark](screenshot/dark.png)
 Signup
-![](screenshot/signup.png)
+![Signup](screenshot/signup.png)
 Create Recipe Page: Must be logged in to view this page
-![](screenshot/create.png)
+![Create](screenshot/create.png)
 Search Function
-![](screenshot/recipe.png)
+![Search Function](screenshot/search.png)
 Shows ingredients displayed when ingredient button is clicked on
-![](screenshot/search.png)
+![Search](screenshot/recipe.png)
+
 
 
 ## Instructions to build:
