@@ -5,6 +5,8 @@ Bernard Ekezie & Yuehan Pei
 
 Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/
 
+Web App Link: https://search-your-recipes.herokuapp.com/
+
 # Project Objective:
 ![Logo](screenshot/dishes.png)
 
